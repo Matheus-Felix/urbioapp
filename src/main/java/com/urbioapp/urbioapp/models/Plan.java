@@ -1,10 +1,33 @@
 package com.urbioapp.urbioapp.models;
 
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.OneToOne;
+
+@Entity
 public class Plan {
+	@Id
+	private int id;
 	private String name_plan;
 	private float vl_plan;
 	private String due_date;
 	private String start_date;
+	
+	@OneToOne
+	private User user;
+	
+	public User getUser() {
+		return user;
+	}
+	public void setUser(User user) {
+		this.user = user;
+	}
+	public int getId() {
+		return id;
+	}
+	public void setId(int id) {
+		this.id = id;
+	}
 	
 	public String getName_plan() {
 		return name_plan;
