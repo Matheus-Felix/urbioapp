@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+	<title>Your invoice</title>
+</head>
+<body>
+	<h1>Your Invoice</h1>
+	
+	
+</body>
+
+
+
+</html
