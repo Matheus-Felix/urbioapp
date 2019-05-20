@@ -1,4 +1,4 @@
-package com.urbioapp.urbioapp;
+package com.urbioapp.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

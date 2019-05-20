@@ -1,4 +1,4 @@
-package com.urbioapp.urbioapp.models;
+package com.urbioapp.api.models;
 
 public class Route {
 	private String origin;

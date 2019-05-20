@@ -1,12 +1,12 @@
-package com.urbioapp.urbioapp.controllers;
+package com.urbioapp.api.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-import com.urbioapp.urbioapp.models.User;
-import com.urbioapp.urbioapp.repository.UrbioappRepository;
+import com.urbioapp.api.models.User;
+import com.urbioapp.api.repository.UrbioappRepository;
 
 @Controller
 public class UserController {

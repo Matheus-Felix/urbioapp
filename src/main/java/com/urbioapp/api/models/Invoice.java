@@ -1,4 +1,4 @@
-package com.urbioapp.urbioapp.models;
+package com.urbioapp.api.models;
 
 public class Invoice {
 	private String issue_date;

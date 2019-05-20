@@ -1,4 +1,4 @@
-package com.urbioapp.urbioapp.models;
+package com.urbioapp.api.models;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

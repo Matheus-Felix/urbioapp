@@ -1,8 +1,8 @@
-package com.urbioapp.urbioapp.repository;
+package com.urbioapp.api.repository;
 
 import org.springframework.data.repository.CrudRepository;
 
-import com.urbioapp.urbioapp.models.User;
+import com.urbioapp.api.models.User;
 
 public interface UrbioappRepository extends CrudRepository<User, String>{
 
