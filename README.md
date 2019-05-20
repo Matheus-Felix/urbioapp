@@ -10,4 +10,4 @@ Nosso projeto é um aplicativo para melhorar a mobilidade urbana de pessoas em b
 Nosso time passou por mudança onde eu Matheus Felix e Thiago ficamos com o projeto chamado URB.io tomando frente do mesmo.
 Estamos adaptando as views para os services e preparando para colocar a aplicação no Heroku.
 Ainda iremos integrar a nossa aplicação com o Google API para Geolocation e talvez usar alguma ferramenta de chat como a plataforma Blip mas esses dois passos ainda serão desafios para nós.
-Esperamos que possa avaliar o desempenho levando em conta que não trabalhamos com essas tecnologias em nosso dia a dia.jn
+Esperamos que possa avaliar o desempenho levando em conta que não trabalhamos com essas tecnologias em nosso dia a dia.
